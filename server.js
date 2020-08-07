@@ -18,7 +18,7 @@ io.on('connection',(socket) =>{ //from now on, listening to events made in the c
       
     socket.emit('newMessage',{ 
         from: "Admin",
-        text: "Welcome to the chat App!",
+        text: "Welcome to the chat App!!!",
         createdAt: new Date().getTime()
     })
 
