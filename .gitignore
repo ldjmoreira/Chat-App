@@ -1,0 +1,3 @@
+# Para ignorar todos os arquivos e sub-pastas da pasta img/
+img/
+node_modules/
